@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Charulatha!  
 
-<!--
-**charulathasaravanan/charulathasaravanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2nd-year B.Sc Computer Science** student specializing in **Artificial Intelligence**  
+💡 Passionate about **AI, NLP, and Chatbot Development**  
+🎯 Aspiring to become an **NLP Engineer**  
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies  
+- **Programming:** Python, JavaScript, SQL  
+- **Web Development:** HTML, CSS, React Native  
+- **AI & Data Science:** Pandas, NLP, Azure, AWS  
+- **Tools & Platforms:** Git, VS Code, MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning  
+🔹 Advanced **NLP techniques**  
+🔹 **Cloud technologies (Azure, AWS)**  
+🔹 **React Native with Expo** for mobile development  
+
+## 🔥 Projects  
+🔹 **Spam Classifier using NLP**  
+🔹 **To-Do List Mobile App (React Native + Expo)**  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](your-github-url)  
+
+---
+
+⭐ **Looking for opportunities** in AI & NLP-related roles!  
+
